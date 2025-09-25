@@ -1,0 +1,21 @@
+body {
+    background-color: grey;
+}
+h1 {
+    font-family: sans-serif;
+    text-transform: uppercase;
+    background-color: mediumaquamarine;
+    color: white;
+    padding: 20px;
+}
+h2 {
+    font-family: sans-serif;
+    text-transform: uppercase;
+    background-color: pink;
+    color: white;
+    padding: 20px;
+}
+p {
+    background-color: antiquewhite;
+    padding: 20px;
+}
