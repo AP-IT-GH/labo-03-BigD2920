@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+h1, h2 {
+    font-weight: bold;
+}
+p.circle {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: black 10px;
+    margin:auto
+}
+p.circle.circle_red {
+    background-color: red;
+    border: solid;
+}
+p.circle.circle_green {
+    background-color: green;
+    border-style: double;
+}
+p.circle.circle_blue {
+    background-color: blue;
+    border-style: dashed;
+}
+
